@@ -1,0 +1,54 @@
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe.config
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\bin\Debug\Gym_Application.pdb
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.AssemblyReference.cache
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.AddMember.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Form1.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.MainFormcs.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Properties.Resources.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.GenerateResource.cache
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.CoreCompileInputs.cache
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.exe
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.pdb
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Payment.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.UpdateDelete.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Application.ViewMember.resources
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\bin\Debug\Dapper.dll
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\bin\Debug\Dapper.xml
+C:\Users\bizic\source\repos\Gym_Application\Gym_Application\obj\Debug\Gym_Appl.817490FE.Up2Date
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.AssemblyReference.cache
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.AddMember.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.MainFormcs.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Payment.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Properties.Resources.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.UpdateDelete.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.ViewMember.resources
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.GenerateResource.cache
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.CoreCompileInputs.cache
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.exe
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.pdb
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe.config
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.pdb
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\bin\Debug\Dapper.dll
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\bin\Debug\Dapper.xml
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Appl.817490FE.Up2Date
+C:\C#\Advanced C#\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.MainPage.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe.config
+C:\Projects\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.exe
+C:\Projects\Gym Application\Gym_Application\Gym_Application\bin\Debug\Gym_Application.pdb
+C:\Projects\Gym Application\Gym_Application\Gym_Application\bin\Debug\Dapper.dll
+C:\Projects\Gym Application\Gym_Application\Gym_Application\bin\Debug\Dapper.xml
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.AssemblyReference.cache
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.AddMember.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.MainPage.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.MainFormcs.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Payment.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.Properties.Resources.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.UpdateDelete.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.ViewMember.resources
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.GenerateResource.cache
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.csproj.CoreCompileInputs.cache
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Appl.817490FE.Up2Date
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.exe
+C:\Projects\Gym Application\Gym_Application\Gym_Application\obj\Debug\Gym_Application.pdb
